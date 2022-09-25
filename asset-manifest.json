@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/veterinarian/static/css/main.69fdd597.css",
+    "main.js": "/veterinarian/static/js/main.52632086.js",
+    "index.html": "/veterinarian/index.html",
+    "main.69fdd597.css.map": "/veterinarian/static/css/main.69fdd597.css.map",
+    "main.52632086.js.map": "/veterinarian/static/js/main.52632086.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69fdd597.css",
+    "static/js/main.52632086.js"
+  ]
+}
